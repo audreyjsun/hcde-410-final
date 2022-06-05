@@ -6,12 +6,15 @@ This research focuses on analyzing various data sets on mental health trends amo
 # Referenced Resources
 ## Data Sets
 
-Social Media Stock Prices:
-https://www.kaggle.com/datasets/prasertk/major-social-media-stock-prices-20122022
-
 Student Social Anxiety:
 https://www.kaggle.com/datasets/carlsonhoo/university-social-anxiety-survey
 
 Anxiety among Adolescents: 
 https://link.springer.com/article/10.1007/s00127-021-02122-9
 https://github.com/katharineparodi/dcya-anxiety-sppe
+
+Survey Questions:
+https://forms.gle/v4zyj1Qd59JF8FL49
+
+Survey Data:
+https://docs.google.com/spreadsheets/d/1WrjUlFrr9DEzBkDhf9rtH5T4ucE5VSZ5CBgBD1eYm78/edit?usp=sharing
